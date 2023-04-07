@@ -1,0 +1,81 @@
+[b | ]
+begin
+  |
+end;
+
+[be | ]
+begin
+  |
+end.
+
+[i | ]
+integer
+
+[f | ]
+for |:= to  do
+
+[fb | ]
+for |:= to  do
+begin
+
+end;
+
+[if | ]
+if | then
+
+[ifb | ]
+if | then
+begin
+
+end;
+
+[ife ]
+if | then
+
+else
+
+[ifeb | if then else]
+if | then
+begin
+
+end
+else
+begin
+
+end;
+
+[ca | ]
+case | of
+  : ;
+  : ;
+end;
+  
+[w | ]
+while | do
+
+[wb | ]
+while | do
+begin
+
+end;
+
+[r | ]
+repeat
+  |
+until ;
+
+[pr | ]
+procedure |();
+begin
+
+end;
+
+[fu | ]
+function |(): ;
+begin
+
+end;
+
+[arr | ]
+array[1..|] of ;
+
